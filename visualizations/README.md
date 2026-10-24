@@ -1,0 +1,1 @@
+PNG files here are generated from the simulated demo dataset. Re-run `python scripts/data_cleaning.py` and `python scripts/analyze_sales.py` after placing the public dataset at `data/raw/sales_data.csv`.
